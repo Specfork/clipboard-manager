@@ -3,6 +3,7 @@ specfork: 1
 name: "@specfork/clipboard-manager"
 summary: Local desktop clipboard history for text, HTML, images and files, with limits, search, pins, collections, paste, global hotkey, ignore rules for secrets, editing, optional encryption and retention.
 license: CC-BY-4.0
+tags: [desktop, productivity]
 derived_from:
   repo: https://github.com/hluk/CopyQ
   commit: 9d202b6fb8b977a5fad565c8dcb500f460af3ebe
